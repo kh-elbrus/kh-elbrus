@@ -3,7 +3,7 @@
 ### In short, a backend developer with passion for cybersecurity :fire:
 ---
 
-- 🔭 I'm currently working on - creating platform based on open source for SOC
+- 🔭 I'm currently working on - creating platform based on open source for Security Operations Center
 - 🌱 I’m currently learning: Angular && OAuth!
 - 👯 I’m looking to collaborate with: other people in cybersec community.
 - 💬 Ask me about: Django, Web Penetration Testing, Incident Response, Anytime!
