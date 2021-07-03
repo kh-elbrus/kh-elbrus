@@ -3,7 +3,7 @@
 ### In short, a SOC analyst with passion for entrepreneurship :fire:
 ---
 
-- 🔭 I'm currently working on - creating MVP platform Security Operations Center
+- 🔭 I'm currently working on - creating MVP platform for Security Operations Center
 - 🌱 I’m currently learning: ITSM && Leadership!
 - 👯 I’m looking to collaborate with: other people in cybersec community.
 - 💬 Ask me about: Django, Web Penetration Testing, Incident Response, Anytime!
