@@ -1,21 +1,24 @@
-### Hi there, I'm Elbrus :wave:  
+<h1 align="left">Hi 👋, I'm Elbrus!</h1>
+<img align="right" alt="img" width="340" height="340" src="./src/pic.png" />
+<h3 align="left">A passionate cybersecurity engineer from Uzbekistan</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-khv.elbrus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elbrus-khalmukhamedov/)](https://www.linkedin.com/in/elbrus-khalmukhamedov/)
-[![Gmail Badge](https://img.shields.io/badge/-khalmukhamedov.e-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khalmukhamedov.e@gmail.com)](mailto:khalmukhamedov.e@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-khelbrus-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khelbrus)](https://twitter.com/khelbrus)
-[![Telegram Badge](https://img.shields.io/badge/-khelse-blue?style=flat&logo=Telegram&link=https://t.me/khelse)](https://t.me/khelse)
+- 🔭 I’m currently working on [DevOps internship project](https://github.com/kh-elbrus/exadel_practices)
 
+- 🌱 I’m currently learning **terraform, ansible, kubernetes & ELK**
 
-### In short, a SOC analyst with passion for entrepreneurship :fire:
+- 👯 I’m looking to collaborate with **people in Cybersecurity & DevOps community**
 
-<div>
-  
-  <div>
-    
-    - 🔭 I'm currently working on - creating MVP platform for Security Operations Center
-    - 🌱 I’m currently learning: DevOps && Project management!
-    - 👯 I’m looking to collaborate with: other people in cybersec community.
-    - 💬 Ask me about: Django, Web Penetration Testing, Incident Response, Anytime!
-  </div>
+- 💬 Ask me about **penetration testing, SOC analytics & DevOps**
 
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/khelbrus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khelbrus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elbrus-khalmukhamedov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elbrus-khalmukhamedov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18426411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18426411" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="travisci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kh.elbrus"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kh.elbrus" /></a></p><br><br>
