@@ -1,5 +1,6 @@
+![MasterHead](./src/banner-n.gif)
+
 <h1 align="left">Hi 👋, I'm Elbrus!</h1>
-<img align="right" alt="img" width="340" height="340" src="./src/pic.png" />
 <h3 align="left">A passionate cybersecurity engineer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [DevOps internship project](https://github.com/kh-elbrus/exadel_practices)
