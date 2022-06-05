@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Elbrus!</h1>
 <h3 align="left">A passionate cybersecurity engineer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [DevOps internship project](https://github.com/kh-elbrus/exadel_practices)
+- 🔭 I’m currently working on the DevOps Engineer position
 
 - 🌱 I’m currently learning **terraform, ansible, kubernetes & ELK**
 
