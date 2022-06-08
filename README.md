@@ -1,7 +1,7 @@
 ![MasterHead](./src/banner-n.gif)
 
 <h1 align="left">Hi 👋, I'm Elbrus!</h1>
-<h3 align="left">A passionate cybersecurity engineer from Uzbekistan</h3>
+<h3 align="left">A passionate devops/cybersecurity engineer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on the DevOps Engineer position
 
