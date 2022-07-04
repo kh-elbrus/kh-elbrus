@@ -1,15 +1,15 @@
 ![MasterHead](./src/banner-n.gif)
 
 <h1 align="left">Hi 👋, I'm Elbrus!</h1>
-<h3 align="left">A passionate devops/cybersecurity engineer from Uzbekistan</h3>
+<h3 align="left">A passionate DevSecOps/Cybersecurity engineer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on the DevOps Engineer position
 
-- 🌱 I’m currently learning **terraform, ansible, kubernetes & ELK**
+- 🌱 I’m currently learning **python & aws automation, Azure DevOps**
 
 - 👯 I’m looking to collaborate with **people in Cybersecurity & DevOps community**
 
-- 💬 Ask me about **penetration testing, SOC analytics & DevOps**
+- 💬 Ask me about **penetration testing, SOC analytics & DevSecOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
